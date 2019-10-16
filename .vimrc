@@ -212,3 +212,14 @@ nmap <leader>g :IndentLinesToggle<CR>
 " brew cask install font-hack-nerd-font
 " Non-ASC2 FONT 13pt Hack Regular Nerd Font Complete
 
+"{
+"  "eslint.filetypes": ["javascript", "typescript", "vue"],
+"  "diagnostic.infoSign": "ღ",
+"  "diagnostic.hintSign": "ஐ",
+"  "diagnostic.warningSign": "⚠",
+"  "diagnostic.errorSign": "✖",
+"  "diagnostic.enable": true,
+"  "diagnostic.signOffset": 9999999,
+"  "diagnostic.highlightOffset": 9999999,
+"  "diagnostic.refreshOnInsertMode": true
+"}
